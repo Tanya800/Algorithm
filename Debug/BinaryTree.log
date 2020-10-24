@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\lenov\source\repos\binarytree\binarytree\source.cpp(116): warning C4715: find: значение возвращается не при всех путях выполнения
+c:\users\lenov\source\repos\binarytree\binarytree\source.cpp(37): warning C4715: push: значение возвращается не при всех путях выполнения
+  BinaryTree.vcxproj -> C:\Users\Lenov\source\repos\BinaryTree\Debug\BinaryTree.exe
